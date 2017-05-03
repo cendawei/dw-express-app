@@ -18,7 +18,7 @@ if(program.dir === true || program.dir === undefined) {
     process.exit();
 }
 
-var spinner = ora('downloading template');
+var spinner = ora('generating project');
 spinner.start();
 download('cendawei/express-gulp-webpack-app', program.dir, function (err) {
     spinner.stop();
