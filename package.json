@@ -1,0 +1,35 @@
+{
+  "name": "dw-express-app",
+  "version": "1.0.0",
+  "description": "a express project generator with gulp and webpack building",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cendawei/dw-express-app.git"
+  },
+  "keywords": [
+    "express",
+    "sequelize",
+    "mysql",
+    "gulp",
+    "webpack",
+    "sprite",
+    "sass",
+    "es6",
+    "babel"
+  ],
+  "author": "cendawei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cendawei/dw-express-app/issues"
+  },
+  "homepage": "https://github.com/cendawei/dw-express-app#readme",
+  "devDependencies": {
+    "commander": "^2.9.0",
+    "download-git-repo": "^1.0.0",
+    "ora": "^1.2.0"
+  }
+}
