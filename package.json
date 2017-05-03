@@ -1,6 +1,6 @@
 {
   "name": "dw-express-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a express project generator with gulp and webpack building",
   "main": "index.js",
   "bin": {
