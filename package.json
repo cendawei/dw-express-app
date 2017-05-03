@@ -30,7 +30,7 @@
     "url": "https://github.com/cendawei/dw-express-app/issues"
   },
   "homepage": "https://github.com/cendawei/dw-express-app#readme",
-  "devDependencies": {
+  "dependencies": {
     "commander": "^2.9.0",
     "download-git-repo": "^1.0.0",
     "ora": "^1.2.0"
